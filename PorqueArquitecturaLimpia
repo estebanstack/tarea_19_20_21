@@ -1,0 +1,3 @@
+La arquitectura limpia es en sí, como funciona el programa, y así estructurarlo por capas para hacer cada vez
+mas limpieza en el codigo; haciendo que dicho codigo haga lo que dice sin ocupar muchas lineas de codigo, lo que seria
+muy dificil de leer, tanto logicamente como visualmente.
